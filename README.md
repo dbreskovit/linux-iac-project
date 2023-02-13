@@ -1,4 +1,4 @@
-## Projeto 1 🗂
+## Projeto 01 🗂
 
 > Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 
@@ -23,7 +23,7 @@
 | Maria   | Sebastiana | Amanda   |
 | João    | Roberto    | Rogério  |
 
-## Projeto 2 🗂
+## Projeto 02 🗂
 
  > Infraestrutura como código: Script de provisionamento de um servidor web (apache)
 

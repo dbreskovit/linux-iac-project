@@ -1,6 +1,6 @@
-# Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+## Projeto 1 🗂
 
-## Projeto 🗂
+> Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 
 ### Diretórios 
 
@@ -22,10 +22,10 @@
 | Carlos  | Debora     | Josefina |
 | Maria   | Sebastiana | Amanda   |
 | João    | Roberto    | Rogério  |
- 
-# Infraestrutura como código: Script de provisionamento de um servidor web (apache)
 
-## Projeto 🗂
+## Projeto 2 🗂
+
+ > Infraestrutura como código: Script de provisionamento de um servidor web (apache)
 
 ### Definições
 
